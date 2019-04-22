@@ -57,6 +57,19 @@ local.properties
 # Visual Studio Code
 ######################
 .vscode/
+robots.txt
+icon.png
+LICENSE.txt
+humans.txt
+favicon.ico
+site.webmanifest
+tile.png
+404.html
+tile-wide.png
+browserconfig.xml
+.htaccess
+.editorconfig
+.gitattributes
 ######################
 # Maven
 ######################
@@ -118,4 +131,6 @@ Desktop.ini
 ######################
 # ESLint
 ######################
-.eslintcache
+.eslintcache# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+# Useful .gitignore templates: https://github.com/github/gitignore
